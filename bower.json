@@ -1,0 +1,22 @@
+{
+  "name": "scorm-api-wrapper",
+  "homepage": "https://github.com/turbokuzmich/scorm-api-wrapper",
+  "authors": [
+    "Dmitriy Kurteev <dima@imagespark.ru>"
+  ],
+  "description": "Pipwerks SCORM API wrapper",
+  "main": "src/JavaScript/SCORM_API_wrapper.js",
+  "moduleType": [],
+  "keywords": [
+    "scorm"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -839,3 +839,5 @@ pipwerks.UTILS.trace = function(msg){
 
      }
 };
+
+module.exports = pipwerks;
